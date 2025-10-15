@@ -25,4 +25,4 @@ def decoy_list():
     # executa o comando final da função "dificuldade"
 if _name_ == "_main_":
     print("POTENTIAL_KEYS ->", " | ".join(decoy_list()))
-    # onde fazemos amigos, conecemos pessoas e nos divertimos... 3
+    # onde fazemos amigos, conhecemos pessoas e nos divertimos... 3
